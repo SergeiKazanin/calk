@@ -1,3 +1,3 @@
 # calk
 
-https://sergeikazanin.github.io/calk/
+Проект доступен по ссылке: https://sergeikazanin.github.io/calk/
